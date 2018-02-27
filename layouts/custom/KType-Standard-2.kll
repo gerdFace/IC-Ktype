@@ -1,0 +1,16 @@
+Variant = "standard";
+Generator = "NONE";
+Base = "Base";
+Date = "2017-10-13";
+KLL = "0.5c";
+Author = "jbondeson (Jeremy Bondeson) 2017";
+Version = "0.2";
+Name = "KType";
+Layout = "Standard";
+
+U"F8" : ledControl( 2, 63 );
+
+
+
+;
+
